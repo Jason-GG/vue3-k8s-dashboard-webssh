@@ -15,10 +15,10 @@ project include the web-frontend k8s cluster management pages building
 ![img_3.png](img_3.png)
 
 ### Pod log info:
-![img_4.png](img_4.png)
+![img_2.png](img_2.png)
 
 ### Container web terminal:
-![img_5.png](img_5.png)
+![img_1.png](img_1.png)
 
 
 ### installation:
