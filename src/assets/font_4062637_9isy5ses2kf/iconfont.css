@@ -1,0 +1,183 @@
+@font-face {
+  font-family: "element-icons"; /* Project id 4062637 */
+  src: url('iconfont.woff2?t=1697081472873') format('woff2'),
+       url('iconfont.woff?t=1697081472873') format('woff'),
+       url('iconfont.ttf?t=1697081472873') format('truetype');
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-kubernetes:before {
+  content: "\ebee";
+}
+
+.el-icon-warning:before {
+  content: "\e6be";
+}
+
+.el-icon-dui:before {
+  content: "\e645";
+}
+
+.el-icon-icon_aws:before {
+  content: "\e607";
+}
+
+.el-icon-cluster:before {
+  content: "\e7d7";
+}
+
+.el-icon-zengjia:before {
+  content: "\e659";
+}
+
+.el-icon-jianshao:before {
+  content: "\e62c";
+}
+
+.el-icon-service:before {
+  content: "\e6ff";
+}
+
+.el-icon-servicefill:before {
+  content: "\e737";
+}
+
+.el-icon-service1:before {
+  content: "\e6da";
+}
+
+.el-icon-yunweiguanli:before {
+  content: "\e63d";
+}
+
+.el-icon-kaifa:before {
+  content: "\e67e";
+}
+
+.el-icon-xitongyunwei:before {
+  content: "\e619";
+}
+
+.el-icon-icon_service:before {
+  content: "\e657";
+}
+
+.el-icon-service2:before {
+  content: "\e61b";
+}
+
+.el-icon-yunwei-yunweirizhi:before {
+  content: "\e61c";
+}
+
+.el-icon-baozhangservice:before {
+  content: "\e7ba";
+}
+
+.el-icon-customer-service-fill:before {
+  content: "\e851";
+}
+
+.el-icon-customer-service-24hour-fill:before {
+  content: "\e852";
+}
+
+.el-icon-microstrategy:before {
+  content: "\ec1c";
+}
+
+.el-icon-ansible:before {
+  content: "\eb3d";
+}
+
+.el-icon-email:before {
+  content: "\e69f";
+}
+
+.el-icon-email1:before {
+  content: "\e7e3";
+}
+
+.el-icon-email2:before {
+  content: "\e684";
+}
+
+.el-icon-email3:before {
+  content: "\e622";
+}
+
+.el-icon-email4:before {
+  content: "\e6e4";
+}
+
+.el-icon-email5:before {
+  content: "\e600";
+}
+
+.el-icon-email6:before {
+  content: "\e63a";
+}
+
+.el-icon-email7:before {
+  content: "\e92f";
+}
+
+.el-icon-email8:before {
+  content: "\e601";
+}
+
+.el-icon-email9:before {
+  content: "\e64d";
+}
+
+.el-icon-Email:before {
+  content: "\e60f";
+}
+
+.el-icon-aws2:before {
+  content: "\f16a";
+}
+
+.el-icon-aws3:before {
+  content: "\e629";
+}
+
+.el-icon-aws4:before {
+  content: "\e610";
+}
+
+.el-icon-amazonaws:before {
+  content: "\eb3a";
+}
+
+.el-icon-azuredevops:before {
+  content: "\eb49";
+}
+
+.el-icon-microsoftazure:before {
+  content: "\ec16";
+}
+
+.el-icon-aws:before {
+  content: "\e61f";
+}
+
+.el-icon-aws1:before {
+  content: "\e603";
+}
+
+.el-icon-azure:before {
+  content: "\e626";
+}
+
+.el-icon-AWS:before {
+  content: "\e66e";
+}
+

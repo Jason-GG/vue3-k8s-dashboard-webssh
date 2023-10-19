@@ -1,0 +1,303 @@
+{
+  "id": "4062637",
+  "name": "cr-front",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15378529",
+      "name": "kubernetes",
+      "font_class": "kubernetes",
+      "unicode": "ebee",
+      "unicode_decimal": 60398
+    },
+    {
+      "icon_id": "1567696",
+      "name": "warning",
+      "font_class": "warning",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "5287654",
+      "name": "dui",
+      "font_class": "dui",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1312328",
+      "name": "icon_aws",
+      "font_class": "icon_aws",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4766884",
+      "name": "cluster",
+      "font_class": "cluster",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    },
+    {
+      "icon_id": "11839526",
+      "name": "expand1111",
+      "font_class": "zengjia",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "16621377",
+      "name": "collepse_2222",
+      "font_class": "jianshao",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "69056",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "158877",
+      "name": "service_fill",
+      "font_class": "servicefill",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "592998",
+      "name": "service",
+      "font_class": "service1",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "1411102",
+      "name": "19运维管理",
+      "font_class": "yunweiguanli",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "3854424",
+      "name": "开发",
+      "font_class": "kaifa",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "6429424",
+      "name": "系统运维",
+      "font_class": "xitongyunwei",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7382784",
+      "name": "icon_service",
+      "font_class": "icon_service",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8428208",
+      "name": "service",
+      "font_class": "service2",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "17523092",
+      "name": "运维-运维日志",
+      "font_class": "yunwei-yunweirizhi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "20186097",
+      "name": "保障service",
+      "font_class": "baozhangservice",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "34453190",
+      "name": "customer-service-fill",
+      "font_class": "customer-service-fill",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "34453191",
+      "name": "customer-service-24hour-fill",
+      "font_class": "customer-service-24hour-fill",
+      "unicode": "e852",
+      "unicode_decimal": 59474
+    },
+    {
+      "icon_id": "15378600",
+      "name": "microstrategy",
+      "font_class": "microstrategy",
+      "unicode": "ec1c",
+      "unicode_decimal": 60444
+    },
+    {
+      "icon_id": "15378130",
+      "name": "ansible",
+      "font_class": "ansible",
+      "unicode": "eb3d",
+      "unicode_decimal": 60221
+    },
+    {
+      "icon_id": "122696",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "702331",
+      "name": "email",
+      "font_class": "email1",
+      "unicode": "e7e3",
+      "unicode_decimal": 59363
+    },
+    {
+      "icon_id": "736678",
+      "name": "email",
+      "font_class": "email2",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "1026706",
+      "name": "email",
+      "font_class": "email3",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1176901",
+      "name": "email",
+      "font_class": "email4",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "5524683",
+      "name": "email",
+      "font_class": "email5",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6976477",
+      "name": "email",
+      "font_class": "email6",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6987035",
+      "name": "email",
+      "font_class": "email7",
+      "unicode": "e92f",
+      "unicode_decimal": 59695
+    },
+    {
+      "icon_id": "9940259",
+      "name": "email",
+      "font_class": "email8",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10485794",
+      "name": "email",
+      "font_class": "email9",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "12442220",
+      "name": "Email",
+      "font_class": "Email",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5634573",
+      "name": "aws",
+      "font_class": "aws2",
+      "unicode": "f16a",
+      "unicode_decimal": 61802
+    },
+    {
+      "icon_id": "11992213",
+      "name": "aws",
+      "font_class": "aws3",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14765681",
+      "name": "aws",
+      "font_class": "aws4",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "15378123",
+      "name": "amazonaws",
+      "font_class": "amazonaws",
+      "unicode": "eb3a",
+      "unicode_decimal": 60218
+    },
+    {
+      "icon_id": "15378174",
+      "name": "azuredevops",
+      "font_class": "azuredevops",
+      "unicode": "eb49",
+      "unicode_decimal": 60233
+    },
+    {
+      "icon_id": "15378590",
+      "name": "microsoftazure",
+      "font_class": "microsoftazure",
+      "unicode": "ec16",
+      "unicode_decimal": 60438
+    },
+    {
+      "icon_id": "8767689",
+      "name": "aws",
+      "font_class": "aws",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "10786885",
+      "name": "aws",
+      "font_class": "aws1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13302923",
+      "name": "azure",
+      "font_class": "azure",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "21053633",
+      "name": "AWS",
+      "font_class": "AWS",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}
