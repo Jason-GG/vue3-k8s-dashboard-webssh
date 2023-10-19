@@ -1,5 +1,9 @@
 # vue3-k8s-dashboard-webssh
-
+[![vue](https://img.shields.io/badge/MADE%20WITH-VUE-42a97a?style=for-the-badge&labelColor=35495d)](https://vuejs.org)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Jason-GG/vue3-k8s-dashboard-webssh.svg?style=for-the-badge)](https://github.com/Jason-GG/vue3-k8s-dashboard-webssh/stargazers)
+&nbsp;
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](/LICENSE)
 ## Description
 k8s dashboard management, for namespace, jobs, deployments and pods management
 
