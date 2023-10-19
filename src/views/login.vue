@@ -52,7 +52,6 @@ const rules: FormRules = {
 	username: [{required: true,message: 'please type your username', trigger: 'blur'}],
 	password: [{ required: true, message: 'please type your password', trigger: 'blur' }]
 };
-// const permiss = usePermissStore();
 const login = ref<FormInstance>();
 const submitForm = (formEl: FormInstance | undefined) => {
 	if (!formEl) return;
@@ -63,28 +62,9 @@ const submitForm = (formEl: FormInstance | undefined) => {
      		// "password":param.password
 			"credentials": credentials
 		}).then(e=>{
-			apiv2.login({
-				Username: "readUser",
-				Password: "Celestial0."
-			}).then(re=>{
-				console.log(re)
-			})
 			console.log(e)
 			router.push('/');
-			// window.location.href = 'https://cmdbservice.cloud.microstrategy.com/#/dashboard'
-
 		})
-		// if (valid) {
-		// 	ElMessage.success('登录成功');
-		// 	localStorage.setItem('ms_username', param.username);
-		// 	const keys = permiss.defaultList[param.username == 'admin' ? 'admin' : 'user'];
-		// 	permiss.handleSet(keys);
-		// 	localStorage.setItem('ms_keys', JSON.stringify(keys));
-		// 	router.push('/');
-		// } else {
-		// 	ElMessage.error('登录成功');
-		// 	return false;
-		// }
 	});
 };
 
